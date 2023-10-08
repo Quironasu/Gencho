@@ -1,0 +1,23 @@
+{
+    "guild-id": "",
+    "token": "",
+    "premium-role-id": "",
+    "premium-cooldown": true,
+    "premium-cooldown-duration": 3,
+    "cooldown-duration": 10,
+    "admin-cooldown": true,
+    "logs-switch": true,
+    "logs-channel-id": "",
+    "channel-specific-switch": true,
+    "premium-channel-id": "",
+    "free-channel-id": "",
+    "messages": {
+        "not-supported-channel": "No se puede generar en este canal",
+        "account-generated": "Cuenta Generada fue enviada a tu MD",
+        "service-doesnt-exist": "Servicio no existe o lo escribiste mal",
+        "stock-description": "Todas las cuentas disponibles.",
+        "stock-empty-description": "No hay stock.",
+        "no-permissions": "No tienes acceso a este comando.",
+        "embed-footer": "Cambiar por tu nombre de server"
+    }
+}
